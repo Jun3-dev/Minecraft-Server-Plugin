@@ -1,0 +1,28 @@
+name: Plugin1
+version: 0.0.0
+author: gokuGman7345
+main: com.gokuGman7345.Plugin1.Plugin1
+api-version: 1.16
+commands:
+  heal:
+    description: Heals player to max effective HP
+    usage: /<command>
+    aliases: [healing, fullheal]
+
+  feed:
+    description: feeds player to max saturation
+    usage: /<command>
+    aliases: [feedme, food]
+  givewand:
+    description: give THE WAND OF TRUTH! to the player
+    usage: / <command>
+
+  select:
+    description: opens selection screen
+
+  giveaxe:
+    description: gives the player the thunderlord axe
+
+  Telepathy:
+
+
